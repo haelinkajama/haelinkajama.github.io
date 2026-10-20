@@ -34,3 +34,9 @@ Thumbs.db
 # Python
 __pycache__/
 *.pyc
+
+# 뭐
+.agents/
+AGENTS.md
+BLOG_GUIDE.md
+
